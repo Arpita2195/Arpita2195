@@ -1,18 +1,8 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the Neofetch info card (fades/slides in line-by-line).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     info card: python scripts/make_info_card.py -->
-
 <h3><code>arpita@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./arpita-ascii.svg" width="370" alt="Arpita Nathwani — Animated ASCII Portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Arpita Nathwani — Neofetch Info Card" /></td>
-</tr>
-</table>
+<img src="./arpita-ascii.svg" width="540" alt="Arpita Nathwani — Animated ASCII Portrait" />
 
 <br>
 <br>
