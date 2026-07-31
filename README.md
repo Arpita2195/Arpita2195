@@ -23,8 +23,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--arpita--21.vercel.app-ff2e88?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-arpita-21.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Arpita2195-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpita2195)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpita_Nathwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://portfolio-arpita-21.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-22d3ee?style=for-the-badge&logo=gmail&logoColor=black)](https://portfolio-arpita-21.vercel.app/#contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpita_Nathwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-nathwani-59347a2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-arpitanathwani2195%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=black)](mailto:arpitanathwani2195@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-+91_9099314955-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919099314955)
 
 <br>
 
@@ -41,7 +42,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arpita2195)
 
 <br>
 
