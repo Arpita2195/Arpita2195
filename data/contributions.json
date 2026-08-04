@@ -1,22 +1,22 @@
 {
   "username": "Arpita2195",
-  "generated_at": "2026-08-03T10:07:21Z",
+  "generated_at": "2026-08-04T09:10:15Z",
   "range": {
     "start": "2025-08-03",
+    "end": "2026-08-04"
+  },
+  "total_contributions": 47,
+  "active_days": 12,
+  "avg_per_active_day": 3.9,
+  "current_streak": {
+    "length": 4,
+    "start": "2026-07-31",
     "end": "2026-08-03"
   },
-  "total_contributions": 46,
-  "active_days": 11,
-  "avg_per_active_day": 4.2,
-  "current_streak": {
-    "length": 3,
-    "start": "2026-07-31",
-    "end": "2026-08-02"
-  },
   "longest_streak": {
-    "length": 3,
-    "start": "2026-05-20",
-    "end": "2026-05-22"
+    "length": 4,
+    "start": "2026-07-31",
+    "end": "2026-08-03"
   },
   "best_day": {
     "date": "2026-03-18",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 2
+      "total": 3
     }
   ],
   "days": [
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-08-03",
+      "count": 1
+    },
+    {
+      "date": "2026-08-04",
       "count": 0
     }
   ]
